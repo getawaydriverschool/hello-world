@@ -1,2 +1,5 @@
 # hello-world
-first repository (tut)
+
+Peace,
+
+Excited to learn more about GitHub!
